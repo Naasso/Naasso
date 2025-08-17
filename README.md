@@ -40,5 +40,5 @@ Estou sempre buscando evoluir e dominar novas tecnologias. Meu foco atual está 
 
 Sinta-se à vontade para se conectar. Estou sempre aberto a novos desafios e colaborações.
 
-* **LinkedIn:** [Naasson de Sousa Ribeiro](https://www.linkedin.com/in/naasson-de-sousa-ribeiro-596014302)
+* **LinkedIn:** [Naasson Ribeiro](https://www.linkedin.com/in/naasson-de-sousa-ribeiro-596014302)
 * **Email:** naa_sson@hotmail.com
