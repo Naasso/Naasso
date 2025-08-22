@@ -17,7 +17,7 @@ Aqui estão alguns dos projetos que demonstram minhas habilidades. Mais detalhes
 | Projeto | Descrição Resumida | Tecnologias |
 | :--- | :--- | :--- |
 | 🛡️ **[Estudo de Caso de Segurança (Red Team)](https://github.com/Naasso/Estudo-de-Caso-de-Seguranca-Red-Team)** | Análise de Segurança Ofenciva (Red Team) que resultou na descoberta de múltiplas vulnerabilidades, incluindo uma crítica de **RCE** em um ambiente corporativo. | `Pentest`, `OSINT`, `Análise de Vulnerabilidade` |
-| 🗄️ **[Sistema de Gestão Empresarial (ERP)](https://github.com/Naasso/Sistema-de-Gestao-Empresarial-Full-Stack)** | Sistema ERP completo (Desktop/Mobile) com arquitetura **MVC/MVVM** e camada de abstração de dados. | `C#`, `.NET`, `Xamarin`, `SQL` |
+| 🗄️ **[Sistema de Gestão Empresarial (ERP)](https://github.com/Naasso/Sistema-de-Gestao-Empresarial-Full-Stack)** | Sistema ERP completo (Desktop/Mobile) com arquitetura **MVC/MVVM** e camada de abstração de dados. | `C#`, `.NET`, `SQL`, `Mobile` |
 | 🤖 **[Agente de IA com Integração de SO](https://github.com/Naasso/Agente-de-IA-com-Integracao-de-SO)** | Assistente de IA por voz, integrado ao PowerShell, construído com a API do **Google Gemini**. | `Python`, `APIs`, `I.A`, `Automação` |
 
 <br>
