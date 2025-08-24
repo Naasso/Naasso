@@ -2,7 +2,7 @@
 
 <br>
 
-Sou um **Engenheiro de Software** e **Pesquisador de Cibersegurança** apaixonado por construir soluções robustas e seguras. Com mais de 10 anos de experiência prática, meu foco está na intersecção entre Desenvolvimento de Software, Segurança Ofensiva (Red Team) e Inteligência Artificial.
+Sou um **Desenvolvedor de Softwares** e **Pesquisador de Cibersegurança** apaixonado por construir soluções robustas e seguras. Com mais de 10 anos de experiência prática, meu foco está na intersecção entre Desenvolvimento de Software, Segurança Ofensiva (Red Team) e Inteligência Artificial.
 
 Acredito que a melhor forma de proteger um sistema é entendendo profundamente como construí-lo e testa-lo.
 
